@@ -1,5 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning UX Research.
+- 🌱 I’m A Frontend Developer and Designer , I'm currently exploring UI/UX.
+
 
 
