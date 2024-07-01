@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Behance-white?style=for-the-badge&logo=behance&logoColor=black" alt="Behance Badge"/>
   </a>
   <a href="https://medium.com/@riyawani26">
-    <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+    <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
   </a>
 </div>
 
