@@ -55,6 +55,7 @@
 <a href="https://medium.com/design-bootcamp/impact-of-user-experience-ux-design-on-search-engine-optimization-seo-outcome-64738b91983c"> 2. Impact of user experience (UX) design on search engine optimization (SEO). </a> <br>
 <a href="https://medium.com/@riyawani26/learnings-from-metas-threads-user-experience-2e590b9269f6"> 3. Learnings from Meta’s Threads User Experience. </a>
 <a href= "https://medium.com/@riyawani26/creativity-catalyst-1263702b3cff"> Creativity Catalyst. </a>
+
 ---
 
 ### 🖌️: Design Case - Studies :
