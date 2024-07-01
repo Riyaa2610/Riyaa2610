@@ -58,7 +58,7 @@
 
 ---
 
-### 🖌️: Design Case - Studies :
+### 🖌️ Design Case - Studies :
 <a href="https://www.behance.net/gallery/194022283/Riverine-UIUX-Case-Study"> 1. Riverine Case Study. </a> <br>
 <a href="https://medium.com/@riyawani26/tedxpict-blogs-website-ui-ux-case-study-bf389410b35a"> 2. TEDxPICT Blogs Website — UI/UX Case Study. </a> <br>
 <a href="https://www.behance.net/gallery/176674093/UIUX-Case-Study-PrintEZ"> 3. PrintEZ - UI/UX Case Study. </a>
